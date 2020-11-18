@@ -118,5 +118,8 @@
       }
     }
   },
-  "defaultProject": "AngularDynamicRoutes"
+  "defaultProject": "AngularDynamicRoutes",
+  "cli": {
+    "analytics": false
+  }
 }
